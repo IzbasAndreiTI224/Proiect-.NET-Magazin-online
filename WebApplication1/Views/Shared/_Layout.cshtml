@@ -1,0 +1,25 @@
+﻿@using System.Web.Optimization;
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magazin Bloom</title>
+    @Styles.Render("~/bundles/style/css")
+</head>
+<body>
+
+
+    @Html.Partial("_Navbar")
+    @Html.Partial("_Sidebar")
+    @Html.Partial("_Offers")
+
+    @RenderBody()
+
+    @Scripts.Render("~/bundles/script/js")
+
+</body>
+
+@Html.Partial("_Footer")
+
+</html>

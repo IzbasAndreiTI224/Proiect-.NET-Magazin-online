@@ -1,0 +1,86 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg, #F5DEB3, #D2B48C);
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form-container {
+    margin: auto;
+    max-width: 600px;
+    padding: 20px;
+    background: rgba(255, 228, 181, 0); /* Setează opacitatea la 0 pentru a face fundalul transparent */
+    border-radius: 10px;
+}
+
+    .form-container h4 {
+        font-family: "Arial Black", sans-serif;
+        text-align: center;
+        margin-bottom: 20px;
+        color: #8B4513; /* Ajustare la culoarea textului */
+    }
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+    .form-group label {
+        font-family: "Arial", sans-serif;
+        font-weight: bold;
+        color: #8B4513; /* Ajustare la culoarea textului */
+    }
+
+    .form-group input[type="text"],
+    .form-group input[type="number"] {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 1px solid #A0522D; /* Ajustare la culoarea borderului */
+    }
+
+    .form-group input[type="submit"] {
+        width: 103.5%;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: none;
+        background-color: #8B4513; /* Ajustare la culoarea butonului */
+        color: #FFFFFF;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .form-group input[type="submit"]:hover {
+            background-color: #A52A2A; /* Ajustare la culoarea butonului la hover */
+        }
+
+.back-to-list {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    color: #000000;
+    padding: 20px;
+}
+
+.footer-content p {
+    margin: 0;
+    font-size: 16px;
+}
+
+.footer-copyright p {
+    margin: 0;
+}

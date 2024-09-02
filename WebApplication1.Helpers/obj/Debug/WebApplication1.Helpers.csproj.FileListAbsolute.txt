@@ -1,0 +1,52 @@
+C:\Users\User\Desktop\Solution1\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\Solution1\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\Solution1\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Solution1\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Solution1\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\Solution1\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll.config
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy\WebApplication1.Helpers\obj\Debug\WebAppli.09B0299D.Up2Date
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll.config
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebAppli.09B0299D.Up2Date
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy\WebApplication1.Helpers\bin\Debug\AutoMapper.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll.config
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\AutoMapper.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\AutoMapper.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebAppli.09B0299D.Up2Date
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\WebActivatorEx.dll
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\LAB 3 TWEB - Copy - Copy - Copy\WebApplication1.Helpers\bin\Debug\Ninject.Web.Common.xml

@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|c:\\users\\user\\desktop\\lab 3 tweb - copy - copy - copy\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88C998E-9F25-4B65-AF73-A854DFB00F1B}|WebApplication1.Domain\\WebApplication1.Domain.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.domain\\entities\\user\\usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88C998E-9F25-4B65-AF73-A854DFB00F1B}|WebApplication1.Domain\\WebApplication1.Domain.csproj|solutionrelative:webapplication1.domain\\entities\\user\\usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C676AF1-8ACE-4888-892E-18A5FBB213F6}|WebApplication1.Helpers\\WebApplication1.Helpers.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C676AF1-8ACE-4888-892E-18A5FBB213F6}|WebApplication1.Helpers\\WebApplication1.Helpers.csproj|solutionrelative:webapplication1.helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\views\\shared\\_layoutproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\views\\shared\\_layoutproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\mainbl\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\mainbl\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\mainbl\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\mainbl\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\mainbl\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\mainbl\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\mainbl\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\mainbl\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88C998E-9F25-4B65-AF73-A854DFB00F1B}|WebApplication1.Domain\\WebApplication1.Domain.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88C998E-9F25-4B65-AF73-A854DFB00F1B}|WebApplication1.Domain\\WebApplication1.Domain.csproj|solutionrelative:webapplication1.domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\8eca4ac489fda7b5ed53fe8860c5247192cad923e397360afe7ad24bb3669cbe\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\migrations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\migrations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.businesslogic\\businesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815058CC-A6FC-4B90-B609-ED75589B4847}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\businesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF54434-507C-4D6F-95CA-1435653A3918}|WebApplication1\\WebApplication1.Web.csproj|solutionrelative:webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88C998E-9F25-4B65-AF73-A854DFB00F1B}|WebApplication1.Domain\\WebApplication1.Domain.csproj|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\webapplication1.domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88C998E-9F25-4B65-AF73-A854DFB00F1B}|WebApplication1.Domain\\WebApplication1.Domain.csproj|solutionrelative:webapplication1.domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.BusinessLogic\\DBModel\\UserContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\User\\PostResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\Responses\\ULoginResp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:23:19.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:23:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:14:34.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T11:02:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:51:10.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:42:33.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Register\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T10:49:38.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:39:12.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:11:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Domain\\Entities\\User\\UserTable.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Domain\\Entities\\User\\UserTable.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Domain\\Entities\\User\\UserTable.cs",
+              "RelativeToolTip": "WebApplication1.Domain\\Entities\\User\\UserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:29:17.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T17:56:14.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv2AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:33:41.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:17:17.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T07:08:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:46:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Helpers\\LoginHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Helpers\\LoginHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Helpers\\LoginHelper.cs",
+              "RelativeToolTip": "WebApplication1.Helpers\\LoginHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:33:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:44:56.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HttpContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Extensions\\HttpContextExtensions.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Extensions\\HttpContextExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Extensions\\HttpContextExtensions.cs",
+              "RelativeToolTip": "WebApplication1\\Extensions\\HttpContextExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:44:22.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\ProductContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\MainBL\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\ProductContext.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\MainBL\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:00:51.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\UserContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\MainBL\\UserContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\UserContext.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\MainBL\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:39:54.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Models\\Model.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:39:13.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SessionContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\SessionContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\MainBL\\SessionContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\SessionContext.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\MainBL\\SessionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:40:13.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SessionBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\SessionBL.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\MainBL\\SessionBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\MainBL\\SessionBL.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\MainBL\\SessionBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:40:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserMinimal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Domain\\Entities\\User\\UserMinimal.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Domain\\Entities\\User\\UserMinimal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Domain\\Entities\\User\\UserMinimal.cs",
+              "RelativeToolTip": "WebApplication1.Domain\\Entities\\User\\UserMinimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:30:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:42:57.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\8eca4ac489fda7b5ed53fe8860c5247192cad923e397360afe7ad24bb3669cbe\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8eca4ac489fda7b5ed53fe8860c5247192cad923e397360afe7ad24bb3669cbe\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\8eca4ac489fda7b5ed53fe8860c5247192cad923e397360afe7ad24bb3669cbe\\ProductController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8eca4ac489fda7b5ed53fe8860c5247192cad923e397360afe7ad24bb3669cbe\\ProductController.cs [Read Only]",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:14:36.213Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Migrations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Migrations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\Migrations\\ProductConfiguration.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Migrations\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:56:33.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\BusinessLogic.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\BusinessLogic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.BusinessLogic\\BusinessLogic.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\BusinessLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:03:45.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication1\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:45:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "URole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Domain\\Enums\\URole.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Domain\\Enums\\URole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy - Copy - Copy\\WebApplication1.Domain\\Enums\\URole.cs",
+              "RelativeToolTip": "WebApplication1.Domain\\Enums\\URole.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:29:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
+              "RelativeDocumentMoniker": "..\\LAB 3 TWEB - Copy\\WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
+              "RelativeToolTip": "..\\LAB 3 TWEB - Copy\\WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:32:53.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PostResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\User\\PostResponse.cs",
+              "RelativeDocumentMoniker": "..\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\User\\PostResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\User\\PostResponse.cs",
+              "RelativeToolTip": "..\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\User\\PostResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:22:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ULoginResp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\Responses\\ULoginResp.cs",
+              "RelativeDocumentMoniker": "..\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\Responses\\ULoginResp.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\Responses\\ULoginResp.cs",
+              "RelativeToolTip": "..\\LAB 3 TWEB - Copy\\WebApplication1.Domain\\Entities\\Responses\\ULoginResp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:02:15.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

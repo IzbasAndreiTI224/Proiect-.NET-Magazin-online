@@ -1,0 +1,54 @@
+﻿@using System.Web.Optimization;
+@Styles.Render("~/bundles/style2/css")
+
+@model IEnumerable<WebApplication1.Domain.Entities.User.Product>
+@{ Layout = "~/Views/Shared/_lpindex.cshtml"; }
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary" })
+</p>
+
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th></th>
+                <th>@Html.DisplayNameFor(model => model.Name)</th>
+                <th>@Html.DisplayNameFor(model => model.Description)</th>
+                <th>@Html.DisplayNameFor(model => model.Category)</th>
+                <th>@Html.DisplayNameFor(model => model.Cost)</th>
+                <th>@Html.DisplayNameFor(model => model.Price)</th>
+
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><img src="@item.ImageUrl" style="width:110px;height:95px;"></td>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+
+                    <td style="width: 630px; height: 95px; overflow: auto;">
+                        <div style="max-width: 610px; max-height: 90px; word-wrap: break-word;">
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </div>
+                    </td>
+
+
+                    <td>@Html.DisplayFor(modelItem => item.Category)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Cost)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Code }, new { @class = "btn btn-info" }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.Code }, new { @class = "btn btn-primary" }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Code }, new { @class = "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

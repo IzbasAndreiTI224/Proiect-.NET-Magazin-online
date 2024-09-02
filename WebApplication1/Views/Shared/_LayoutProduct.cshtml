@@ -1,0 +1,75 @@
+﻿@using System.Web.Optimization;
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magazin Bloom</title>
+    @Styles.Render("~/bundles/style/css")
+    @Styles.Render("~/bundles/bootstrap/css")
+
+</head>
+<body>
+
+
+    <div class="navbar">
+        <div class="sidebar-toggle">
+            <a href="#">
+                <img src="~/brandlogo/meniu.png" alt="Meniu">
+            </a>
+        </div>
+        <div class="logo">Bloom</div>
+        <div class="nav-buttons">
+            <button class="nav-button">Contacte</button>
+            <button class="nav-button">Coș</button>
+            <button class="nav-button" onclick="window.location.href='Inregistrare/login.html'">Logare</button>
+        </div>
+    </div>
+
+
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h2>Categorii de produse</h2>
+            <button class="sidebar-close">&times;</button>
+        </div>
+        <ul class="sidebar-menu">
+            <li><a href="#">Laptop-uri</a></li>
+            <li><a href="#">Televizoare</a></li>
+            <li><a href="#">Telefoane mobile</a></li>
+            <li><a href="#">Mouse-uri</a></li>
+            <li><a href="#">Tastaturi</a></li>
+            <li><a href="#">Audio</a></li>
+            <li><a href="#">Accesorii</a></li>
+        </ul>
+    </div>
+
+    @RenderBody()
+
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>Internet magazin de produse electronice - Bloom</p>
+        </div>
+        <div class="footer-copyright">
+            <p>© 2024 Toate drepturile rezervate.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const sidebarToggle = document.querySelector('.sidebar-toggle');
+            const sidebarClose = document.querySelector('.sidebar-close');
+            const sidebar = document.querySelector('.sidebar');
+
+            sidebarToggle.addEventListener('click', function () {
+                sidebar.style.left = '0';
+            });
+
+            sidebarClose.addEventListener('click', function () {
+                sidebar.style.left = '-300px';
+            });
+        });
+    </script>
+    @Scripts.Render("~/bundles/bootstrap/js")
+</body>
+</html>

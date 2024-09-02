@@ -1,0 +1,263 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-buttons {
+    display: flex;
+}
+
+.nav-button {
+    margin-left: 10px;
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    color: #000000;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+.nav-button:hover {
+    color: #FF4500;
+}
+
+.search-bar {
+    background-color: #363131; /* Culoarea fundalului pentru câmpul de căutare */
+    padding: 10px 20px; /* Adăugăm spații pentru a se potrivi cu bara de navigație de mai sus */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input[type="text"] {
+    flex-grow: 1;
+    padding: 10px; /* Ajustăm dimensiunile și stilurile pentru câmpul de căutare */
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+}
+
+.search-button {
+    margin-left: 10px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #FFA500; /* Culoarea fundalului pentru butonul de căutare */
+    color: #FFFFFF;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.search-button:hover {
+    background-color: #FF4500;
+}
+
+.product-images {
+    width: 100%;
+    max-height: calc(100vh - 10px); /* Ajustăm înălțimea la maxim pentru a include bara de căutare */
+    overflow: hidden;
+    margin-top: 0; /* Eliminăm marginea superioară */
+}
+
+.product-images img {
+    width: 100%;
+    height: auto; /* Ajustăm astfel încât imaginile să își păstreze proporțiile */
+    object-fit: contain;
+    display: none;
+}
+
+.yellow-bar {
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    height: 140px; /* Înălțimea barei galbene */
+    display: flex;
+    align-items: center;
+    overflow: hidden; /* Ascunde conținutul care depășește limita */
+}
+
+.yellow-bar {
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    height: 140px; /* Înălțimea barei galbene */
+    display: flex;
+    align-items: center;
+    overflow: hidden; /* Ascunde conținutul care depășește limita */
+}
+
+.brand-container {
+    display: flex;
+    gap: 20px; /* Spațiu între branduri */
+    width: calc(100% - 40px); /* Latimea totala a barei galbene minus marginile la stanga și la dreapta */
+    margin: 0 20px; /* Marginile la stânga și la dreapta pentru a alinia brandurile cu marginea paginii */
+    padding: 0 10px; /* Margini interioare pentru branduri */
+}
+
+.brand {
+    flex: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: calc((100% / 6) - 20px);
+    height: 100px;
+    border-radius: 10px;
+    background-color: black;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.brand:hover {
+    box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.5); /* Adaugă umbrire la hover */
+}
+
+.brand img {
+    max-width: 50%;
+    max-height: 50%;
+    object-fit: contain;
+}
+
+.brand:first-child,
+.brand:last-child {
+    margin: 0; /* Elimina marginile pentru primul și ultimul brand */
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -300px;
+    width: 300px;
+    height: 100%;
+    background-color: #969174; /* Culorile de fundal din gradientul galben */
+    background: linear-gradient(45deg, #bbb8aa, #817c64);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: left 0.3s ease-in-out;
+    z-index: 2
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: center; /* Centrarea orizontală a elementelor */
+    align-items: center; /* Centrarea verticală a elementelor */
+    padding: 20px 0; /* Ajustarea spațiului între antet și butonul de închidere */
+    background: linear-gradient(45deg, #d3c8c3, #969174); /* Gradient pentru fundal */
+}
+
+.sidebar-menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar-menu li {
+    padding: 10px 20px;
+    border-bottom: 1px solid #000000; /* Linii de sub fiecare element de meniu */
+}
+
+.sidebar-menu li:last-child {
+    border-bottom: none; /* Eliminăm linia de sub ultimul element de meniu */
+}
+
+.sidebar-menu li a {
+    text-decoration: none;
+    color: #000000; /* Culoarea textului de meniu */
+    font-weight: bold;
+    transition: color 0.2s ease-in-out; /* Efect de tranziție pentru schimbarea culorii */
+}
+
+.sidebar-menu li a:hover {
+    color: #FFFFFF; /* Culoarea textului de meniu la hover */
+    background-color: transparent; /* Elimină culoarea de fundal la hover */
+}
+
+.sidebar-menu li a:active {
+    color: #FFA500; /* Culoarea textului de meniu la click */
+}
+
+
+
+@media screen and (min-width: 768px) {
+.sidebar-toggle {
+        margin-right: 10px; /* Spațiul între imagine și logo */
+}
+   
+
+.sidebar-toggle img {
+        width: 30px; /* Lățimea imaginii */
+        height: auto;
+        cursor: pointer;
+}
+    
+    
+ .logo {
+        flex-grow: 1; /* Face logo-ul să ocupe cât mai mult spațiu disponibil */
+}
+    
+.navbar img {
+        width: 30px; /* Lățimea imaginii */
+        height: auto;
+        cursor: pointer;
+}
+
+.sidebar-close {
+        border: none;
+        background: none;
+        font-size: 20px;
+        cursor: pointer;
+} 
+}
+
+.content {
+    margin-top: 500px; /* Adăugăm o margine superioară de 500px */
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    color: #000000;
+    padding: 20px;
+}
+
+
+
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    color: #000000;
+    padding: 20px;
+}
+
+.footer-content p {
+    margin: 0;
+    font-size: 16px; /* Dimensiunea fontului pentru textul principal */
+}
+
+.footer-copyright p {
+    margin: 0;
+}
+
+
+
